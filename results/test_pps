@@ -1,0 +1,13 @@
+#!/bin/bash
+
+go run main.go -pps 5 -t 300 -r 30 -d 50 -csv output_pss_5.csv
+go run main.go -pps 10 -t 300 -r 30 -d 50 -csv output_pss_10.csv
+go run main.go -pps 20 -t 300 -r 30 -d 50 -csv output_pss_20.csv
+go run main.go -pps 40 -t 300 -r 30 -d 50 -csv output_pss_40.csv
+go run main.go -pps 80 -t 300 -r 30 -d 50 -csv output_pss_80.csv
+go run main.go -pps 160 -t 300 -r 30 -d 50 -csv output_pss_160.csv
+go run main.go -pps 320 -t 300 -r 30 -d 50 -csv output_pss_320.csv
+go run main.go -pps 640 -t 300 -r 30 -d 50 -csv output_pss_640.csv
+go run main.go -pps 1280 -t 300 -r 30 -d 50 -csv output_pss_1280.csv
+go run main.go -pps 2560 -t 300 -r 30 -d 50 -csv output_pss_2560.csv
+go run main.go -pps 5120 -t 300 -r 30 -d 50 -csv output_pss_5120.csv

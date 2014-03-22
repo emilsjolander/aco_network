@@ -1,0 +1,23 @@
+#!/bin/bash
+
+go run main.go -pps 1000 -t 300 -r 30 -d 5 -csv output_decay_5.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 10 -csv output_decay_10.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 15 -csv output_decay_15.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 20 -csv output_decay_20.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 25 -csv output_decay_25.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 30 -csv output_decay_30.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 35 -csv output_decay_35.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 40 -csv output_decay_40.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 45 -csv output_decay_45.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 50 -csv output_decay_50.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 55 -csv output_decay_55.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 60 -csv output_decay_60.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 65 -csv output_decay_65.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 70 -csv output_decay_70.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 75 -csv output_decay_75.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 80 -csv output_decay_80.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 85 -csv output_decay_85.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 90 -csv output_decay_90.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 95 -csv output_decay_95.csv
+go run main.go -pps 1000 -t 300 -r 30 -d 100 -csv output_decay_100.csv
+
